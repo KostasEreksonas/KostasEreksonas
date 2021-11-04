@@ -7,3 +7,5 @@
   - [My Linkedin page](https://www.linkedin.com/in/kostasereksonas/)
   - [My Gitlab page](https://gitlab.com/k.ereksonas/)
   - [My Facebook page](https://www.facebook.com/kostas.ereksonas/)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/kostasereksonas9.png" alt="TryHackMe">
