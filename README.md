@@ -8,4 +8,4 @@
   - [My Gitlab page](https://gitlab.com/k.ereksonas/)
   - [My Facebook page](https://www.facebook.com/kostas.ereksonas/)
 - Learning cybersecurity topics at [TryHackMe.com](https://tryhackme.com)
-<img src="https://tryhackme-badges.s3.amazonaws.com/kostasereksonas9.png" alt="TryHackMe">
+- Starting out with [Hackthebox.com](https://hackthebox.com)
