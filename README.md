@@ -8,4 +8,4 @@
   - [My Gitlab page](https://gitlab.com/k.ereksonas/)
   - [My Facebook page](https://www.facebook.com/kostas.ereksonas/)
 - Learning cybersecurity topics at [TryHackMe.com](https://tryhackme.com)
-- Starting out with [Hackthebox.com](https://hackthebox.com)
+- Gettung started out with [Hackthebox.com](https://hackthebox.com)
