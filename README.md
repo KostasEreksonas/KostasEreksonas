@@ -1,7 +1,6 @@
 - 👋 Hi, my name is @KostasEreksonas
 - 👀 I've graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
 - 🌱 I’m currently interested in various cybersecurity topics and learning more web programming and Linux
-- 💞️ I’m looking to collaborate on various projects associated with security of Internet of Things devices
 - 📫 How to reach me:
   - [My Linkedin page](https://www.linkedin.com/in/kostasereksonas/)
   - [My Gitlab page](https://gitlab.com/k.ereksonas/)
