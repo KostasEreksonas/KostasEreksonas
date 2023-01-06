@@ -1,5 +1,5 @@
 - 👋 Hi, I am @KostasEreksonas
-- 👀 I've graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
+- 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
 - 🌱 I’m currently interested in various cybersecurity topics and learning more web programming and Linux
 - 📫 How to reach me:
   - [My Linkedin page](https://www.linkedin.com/in/kostasereksonas/)
