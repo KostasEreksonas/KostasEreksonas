@@ -1,4 +1,4 @@
-- 👋 Hi, I am Kostas Ereksonas
+- 👋 Hello, my name is Kostas Ereksonas
 - 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
 - 🌱 I’m currently interested in various cybersecurity topics and learning more web programming and Linux
 - 📫 How to reach me:
