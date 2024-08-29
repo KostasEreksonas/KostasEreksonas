@@ -5,4 +5,4 @@
   - [My Linkedin](https://www.linkedin.com/in/kostasereksonas/)
   - [My Gitlab](https://gitlab.com/k.ereksonas/)
   - [My Facebook](https://www.facebook.com/kostas.ereksonas/)
-- Learning cybersecurity topics at [TryHackMe.com](https://tryhackme.com)
+- Learning cybersecurity at [TryHackMe.com](https://tryhackme.com)
