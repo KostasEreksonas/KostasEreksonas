@@ -8,6 +8,7 @@
   - [Hwbot](https://hwbot.org/user/kerlit/)
 - Learning about cybersecurity at [TryHackMe.com](https://tryhackme.com)
 
+Some stats of my Github profile:
 <table>
   <tr>
     <td valign="center">
