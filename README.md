@@ -15,7 +15,7 @@
     - ![k.ereksonas](mailto:k.ereksonas@gmail.com)
   - ![Hwbot](https://img.shields.io/badge/Hwbot-blue)
     - [Kerlit](https://hwbot.org/user/kerlit/)
-  - ![Tryhackme](https://img.shields.io/badge/Tryhackme-blue)
+  - ![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)
     - [kostasereksonas9](https://tryhackme.com/r/p/kostasereksonas9)
 
 # Tech stack:
