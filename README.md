@@ -5,18 +5,12 @@
 - 🌱 I’m currently interested in Linux and a variety of cybersecurity topics and exploring the possibilities of machine learning application in the field of cybersecurity.
 
 # Socials:
-  - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-    - [kostasereksonas](https://www.linkedin.com/in/kostasereksonas/)
-  - ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-    - [k.ereksonas](https://gitlab.com/k.ereksonas/)
-  - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-    - [kostas.ereksonas](https://www.facebook.com/kostas.ereksonas/)
-  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-    - ![k.ereksonas](mailto:k.ereksonas@gmail.com)
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostasereksonas/)
+  - [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/k.ereksonas/)
+  - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kostas.ereksonas/)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.ereksonas@gmail.com)
   - [![Hwbot](https://img.shields.io/badge/Hwbot-green?style=for-the-badge)](https://hwbot.org/user/kerlit/)
-    - [Kerlit](https://hwbot.org/user/kerlit/)
-  - ![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)
-    - [kostasereksonas9](https://tryhackme.com/r/p/kostasereksonas9)
+  - [![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)](https://tryhackme.com/r/p/kostasereksonas9)
 
 # Tech stack:
 
