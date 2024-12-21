@@ -16,7 +16,7 @@
   - ![Hwbot](https://img.shields.io/badge/Hwbot-blue)
     - [Kerlit](https://hwbot.org/user/kerlit/)
   - ![Tryhackme](https://img.shields.io/badge/Tryhackme-blue)
-    - [kostasereksonas9]([https://tryhackme.com](https://tryhackme.com/r/p/kostasereksonas9))
+    - [kostasereksonas9](https://tryhackme.com/r/p/kostasereksonas9)
 
 # Tech stack:
 
