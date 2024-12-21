@@ -13,7 +13,7 @@
     - [kostas.ereksonas](https://www.facebook.com/kostas.ereksonas/)
   - ![Hwbot](https://img.shields.io/badge/Hwbot)
     - [Kerlit](https://hwbot.org/user/kerlit/)
-  - ![Tryhackme](https://img.shields.io/badge/Tryhackme)
+  - ![Tryhackme](https://img.shields.io/badge/Tryhackme-a)
     - [kostasereksonas9]([https://tryhackme.com](https://tryhackme.com/r/p/kostasereksonas9))
   - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
     - ![k.ereksonas](mailto:k.ereksonas@gmail.com)
