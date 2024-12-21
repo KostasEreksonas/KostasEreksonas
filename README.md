@@ -17,8 +17,6 @@
     <td valign="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasEreksonas&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages of Kostas Ereksonas"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KostasEreksonas&theme=blue-green&hide_border=false" alt="Streak stats for Kostas Ereksonas"/>
     </td>
