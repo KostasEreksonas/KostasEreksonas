@@ -33,8 +33,10 @@
     <td valign="center" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KostasEreksonas&theme=blue-green&hide_border=false" alt="Streak stats for Kostas Ereksonas"/>    
     </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostasEreksonas&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Adrian%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  </tr>
+  <tr>
+    <td valign="center" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostasEreksonas&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
     </td>
   </tr>
 </table>
