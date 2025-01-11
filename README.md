@@ -48,3 +48,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KostasEreksonas&theme=blue-green&hide_border=false" alt="Streak stats for Kostas Ereksonas"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostasEreksonas&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" alt="activity-graph graph"/>
+
+<details>
+    <summary>Views</summary>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=KostasEreksonas&label=VIEWS&style=for-the-badge&color=blue">
+</details>
