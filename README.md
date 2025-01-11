@@ -42,32 +42,32 @@
 # Profile Stats:
 
 <details>
-    <summary>Views</summary>
+    <summary>All commits</summary>
     <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasEreksonas&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats for Kostas Ereksonas">
 </details>
 
 <details>
-    <summary>Views</summary>
+    <summary>Top languages</summary>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasEreksonas&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages of Kostas Ereksonas"/>
 </details>
 
 <details>
-    <summary>Views</summary>
+    <summary>Streak stats</summary>
     <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KostasEreksonas&theme=blue-green&hide_border=false" alt="Streak stats for Kostas Ereksonas"/>
 </details>
 
 
 <details>
-    <summary>Views</summary>
+    <summary>Activity graph</summary>
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostasEreksonas&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" alt="activity-graph graph"/>
 </details>
 
 <details>
-    <summary>Views</summary>
+    <summary>Profile views</summary>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=KostasEreksonas&label=VIEWS&style=for-the-badge&color=blue">
 </details>
