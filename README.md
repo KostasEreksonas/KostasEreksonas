@@ -10,7 +10,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kostas.ereksonas/)<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.ereksonas@gmail.com)<br/>
 [![Hwbot](https://img.shields.io/badge/Hwbot-green?style=for-the-badge)](https://hwbot.org/user/kerlit/)<br/>
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)](https://tryhackme.com/r/p/kostasereksonas9)
+[![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)](https://tryhackme.com/r/p/kostasereksonas9)<br/>
+[![Medium](https://img.shields.io/badge/Medium-blue?style=for-the-badge)](https://medium.com/@k.ereksonas)
 
 # Tech Stack:
 ## Linux:
