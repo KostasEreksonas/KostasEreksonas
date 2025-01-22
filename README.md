@@ -1,7 +1,8 @@
 # Intro:
 
 - 👋 Hello, my name is Kostas Ereksonas.
-- 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering, now studying Master's of IT engineering at Klaipeda University.
+- 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
+- 👀 Now I am studying Master's of IT engineering at Klaipeda University.
 - 🌱 I’m currently interested in Linux and a variety of cybersecurity topics and exploring the possibilities of machine learning application in the field of cybersecurity.
 
 # Socials:
