@@ -3,7 +3,8 @@
 - 👋 Hello, my name is Kostas Ereksonas.
 - 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering
 - 👀 Now I am studying Master's of IT engineering at Klaipeda University.
-- 🌱 I’m currently interested in Linux and a variety of cybersecurity topics and exploring the possibilities of machine learning application in the field of cybersecurity.
+- 🌱 I’m interested in Linux and a variety of cybersecurity topics and exploring the possibilities of deep learning applications in the field of cybersecurity.
+- 🌱 I’m currently working as a Research Assistant on a Quantum Security project where we explore the possibilities of Quantum Cryptography application.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostasereksonas/)<br/>
@@ -54,13 +55,6 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasEreksonas&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages of Kostas Ereksonas"/>
 </details>
-
-<details>
-    <summary>Streak stats</summary>
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KostasEreksonas&theme=blue-green&hide_border=false" alt="Streak stats for Kostas Ereksonas"/>
-</details>
-
 
 <details>
     <summary>Activity graph</summary>
