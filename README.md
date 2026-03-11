@@ -4,7 +4,7 @@
 - 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering.
 - 👀 I graduated with Master's degree in IT engineering at Klaipeda University where I was exploring the combined world of Data Science and Cyber Security.
 - 🌱 I’m interested in Linux, a variety of cybersecurity topics and exploring the possibilities of deep learning applications in the field of cybersecurity.
-- 🌱 I have experience as a Research Assistant on a Quantum Security project where we explore possible applications of Quantum Cryptography (QC) and Quantum Key Distribution (QKD).
+- 🌱 I have experience as a Research Assistant on a Quantum Security project where we explore possible applications of Post-Quantum Cryptography (PQC) and Quantum Key Distribution (QKD).
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostasereksonas/)<br/>
