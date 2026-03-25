@@ -15,6 +15,7 @@
 [![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)](https://tryhackme.com/r/p/kostasereksonas9)<br/>
 [![Medium](https://img.shields.io/badge/Medium-green?style=for-the-badge)](https://medium.com/@k.ereksonas)<br/>
 [![X](https://img.shields.io/badge/X-blue?style=for-the-badge)](https://x.com/ereksonas)
+[![ORCID](https://img.shields.io/badge/ORCID-green?style=for-the-badge)](https://orcid.org/0009-0009-7822-3531)
 
 # Tech Stack:
 ## Linux:
