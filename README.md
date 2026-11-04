@@ -38,11 +38,11 @@ Mažeikiai/Klaipėda, Lithuania. Open to **penetration testing / security resear
 
 ### Toolbox
 
-1. **Reverse engineering & API/network analysis:**:
+1. **Reverse engineering & API/network analysis:**
     * Ghidra · JADX · Frida · Wireshark · Scapy · Nmap · BurpSuite · Mitmproxy
-2. **Languages:**:
+2. **Languages:**
     * Python · Rust · Lua · JavaScript · Bash
-3. **Other:**:
+3. **Other:**
     * Linux (Arch, Gentoo) · Docker · FastAPI · PyTorch / TensorFlow
 
 ### Contact information
