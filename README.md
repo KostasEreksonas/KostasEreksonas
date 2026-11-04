@@ -1,7 +1,7 @@
 ## Hi, I'm Kostas 👋
 
 **Security researcher focused on IoT devices, proprietary network protocols and Android applications.**
-I take cheap embedded devices apart at API and network layers, search meticulously for gaps in device security, and build the tooling to prove it.a
+I take cheap embedded devices apart at API and network layers, search meticulously for gaps in device security, and build the tooling to prove it.
 
 Mažeikiai/Klaipėda, Lithuania. Open to **penetration testing / security research** roles (on-site, remote or relocation)
 
