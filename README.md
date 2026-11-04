@@ -19,8 +19,9 @@ Mažeikiai/Klaipėda, Lithuania. Open to **penetration testing / security resear
 
 | CVE ID | Description | Target | Repo |
 |:------:|:-----------:|:------:|:----:|
-|**CVE-2024-3765**| Authentication bypass vulnerability in DVRIP/Sofia protocol |Xiongmai XM530 based IP camera| [DVRIP hash cracker](https://github.com/KostasEreksonas/DVRIP_hash_cracker) |
+| **CVE-2024-3765** | Authentication bypass vulnerability in DVRIP/Sofia protocol |Xiongmai XM530 based IP camera| [DVRIP hash cracker](https://github.com/KostasEreksonas/DVRIP_hash_cracker) |
 | **CVE-2025-65856** | Unauthenticated ONVIF access to device info and live video | Xiongmai XM530 based IP camera | [XM_ONVIF_auth_bypass](https://github.com/KostasEreksonas/XM_ONVIF_auth_bypass) |
+| **CVE-2025-65857** | Exposed credentials in RTSP URIs via GetStreamUri | Xiongmai XM530 based IP camera | [XM_ONVIF_auth_bypass](https://github.com/KostasEreksonas/XM_ONVIF_auth_bypass) |
 
 ### Protocol reverse engineering & tooling
 
