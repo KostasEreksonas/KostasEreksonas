@@ -1,71 +1,54 @@
-# Intro:
+## Hi, I'm Kostas 👋
 
-- 👋 Hello, my name is Kostas Ereksonas.
-- 👀 I have graduated from Klaipeda University with a Bachelor's degree in Information Technology Engineering.
-- 👀 I graduated with Master's degree in IT engineering at Klaipeda University where I was exploring the combined world of Data Science and Cyber Security.
-- 🌱 I’m interested in Linux, a variety of cybersecurity topics and exploring the possibilities of deep learning applications in the field of cybersecurity.
-- 🌱 I have experience as a Research Assistant on a Quantum Security project where we explore possible applications of Post-Quantum Cryptography (PQC) and Quantum Key Distribution (QKD).
+**Security researcher focused on IoT devices, proprietary network protocols and Android applications.**
+I take cheap embedded devices apart at API and network layers, search meticulously for gaps in device security, and build the tooling to prove it.a
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostasereksonas/)<br/>
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/k.ereksonas/)<br/>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/kostas.ereksonas/)<br/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.ereksonas@gmail.com)<br/>
-[![Hwbot](https://img.shields.io/badge/Hwbot-green?style=for-the-badge)](https://hwbot.org/user/kerlit/)<br/>
-[![Tryhackme](https://img.shields.io/badge/Tryhackme-blue?style=for-the-badge)](https://tryhackme.com/r/p/kostasereksonas9)<br/>
-[![Medium](https://img.shields.io/badge/Medium-green?style=for-the-badge)](https://medium.com/@k.ereksonas)<br/>
-[![X](https://img.shields.io/badge/X-blue?style=for-the-badge)](https://x.com/ereksonas)<br/>
-[![ORCID](https://img.shields.io/badge/ORCID-green?style=for-the-badge)](https://orcid.org/0009-0009-7822-3531)
+Mažeikiai/Klaipėda, Lithuania. Open to **penetration testing / security research** roles (on-site, remote or relocation)
 
-# Tech Stack:
-## Linux:
+---
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Vulnerability research
 
-## Machine Learning:
+| Finding | Target | Repo |
+|:-------:|:------:|:----:|
+| Hardcoded AES-CBC key/salt, all-zero IV, 1-iteration PBKDF2 for local data | Perenio Peifc01 camera's Android app | [perenio_app_analysis](https://github.com/KostasEreksonas/perenio_app_analysis) |
+| Hardcoded cloud API access/secret keys, unchanged across app versions 3.7–3.20 | TP-Link Tapo Android app | [Tapo_application_analysis](https://github.com/KostasEreksonas/Tapo_application_analysis) |
+| Full black-box assessment: CVE reproduction, obfuscated JS web client, Sofia hash cracker | Besder 6024PB-XMA501 IP camera | [Besder investigation](https://github.com/KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation) |
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### Reproduced vulnerabilities
 
-## Web Development:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+| CVE ID | Description | Target | Repo |
+|:------:|:-----------:|:------:|:----:|
+|**CVE-2024-3765**| Authentication bypass vulnerability in DVRIP/Sofia protocol |Xiongmai XM530 based IP camera| [DVRIP hash cracker](https://github.com/KostasEreksonas/DVRIP_hash_cracker) |
+| **CVE-2025-65856** | Unauthenticated ONVIF access to device info and live video | Xiongmai XM530 based IP camera | [XM_ONVIF_auth_bypass](https://github.com/KostasEreksonas/XM_ONVIF_auth_bypass) |
 
-## Git Operations:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+### Protocol reverse engineering & tooling
 
-# Profile Stats:
+- **[DVRIP protocol analysis](https://github.com/KostasEreksonas/DVRIP_analysis)** — reverse-engineered the DVRIP/Sofia protocol used by budget IP cameras; Lua Wireshark dissector that parses headers and JSON payloads and rebuilds audio/video into a playable file.
+- **[Tapo protocol analysis](https://github.com/KostasEreksonas/Tapo_protocol_analysis)** — Lua Wireshark dissector for TP-Link Tapo's proprietary discovery, control, media and keep-alive traffic.
+- **[Perenio protocol analysis](https://github.com/KostasEreksonas/perenio_app_analysis)** - RTP/RTSP stream reconstruction in Python (H.264 video, L16 audio) from raw packet captures.
 
-<details>
-    <summary>All commits</summary>
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KostasEreksonas&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats for Kostas Ereksonas">
-</details>
+### Research & publications
 
-<details>
-    <summary>Top languages</summary>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KostasEreksonas&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages of Kostas Ereksonas"/>
-</details>
+- [**Implementation-level benchmark of ETSI GS QKD 004 and 014 key-delivery interfaces in NS-3/QKDNetSim**](https://www.sciencedirect.com/science/article/pii/S1573427726000159) — *Optical Switching and Networking* (Elsevier), 2026.
+- ML-based network intrusion detection (XGBoost + autoencoders):
+    * [EDA on CSE-CIC-IDS2018](https://github.com/KostasEreksonas/NIDS_EDA/blob/main/CSE_CIC_IDS2018/README.md)
+    * [Flow analysis web UI](https://github.com/KostasEreksonas/Flow_analysis)
+- [Post-quantum cryptography inventorization on Linux systems with Rust](https://github.com/KostasEreksonas/crypto_analysis)
 
-<details>
-    <summary>Activity graph</summary>
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostasEreksonas&radius=16&theme=redical&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" alt="activity-graph graph"/>
-</details>
+### Toolbox
 
-<details>
-    <summary>Profile views</summary>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=KostasEreksonas&label=VIEWS&style=for-the-badge&color=blue">
-</details>
+1. **Reverse engineering & API/network analysis:**:
+    * Ghidra · JADX · Frida · Wireshark · Scapy · Nmap · BurpSuite · Mitmproxy
+2. **Languages:**:
+    * Python · Rust · Lua · JavaScript · Bash
+3. **Other:**:
+    * Linux (Arch, Gentoo) · Docker · FastAPI · PyTorch / TensorFlow
+
+### Contact information
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostasereksonas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.ereksonas@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7822-3531)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/kostasereksonas9)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kostasereksonas)
